@@ -46,21 +46,3 @@ while loop ==1:
 
 # update the status 
 api.update_status(status = message)
-
-
-
-
-
-        
-
-
-
-    
-
-
-
-
-
-
-
-
